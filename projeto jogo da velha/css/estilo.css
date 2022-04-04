@@ -1,0 +1,169 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+label{
+    color: #fff;
+}
+
+h1{
+    color: #fff;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+#morcego{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+
+#castelo{
+    position: absolute;
+    top: 200px;
+    left: 120px;
+}
+
+#arvore{
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+    width: 100px;
+    height: 100px;
+}
+
+#bruxa{
+    position: absolute;
+    top: 550px;
+    left: 720px;
+    width: 100px;
+    height: 100px;
+}
+
+#chapeu{
+    position: absolute;
+    top: 10px;
+    left: 740px;
+    width: 50px;
+    height: 50px;
+}
+
+#lua{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    width: 150px;
+    height: 100px;
+}
+
+#lapide{
+    position: absolute;
+    top: 450px;
+    left: 850px;
+    width: 120px;
+    height: 120px;
+}
+
+#lapide2{
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+    width: 120px;
+    height: 120px;
+}
+
+#lapide3{
+    position: absolute;
+    top: 450px;
+    left: 1150px;
+    width: 120px;
+    height: 120px;
+}
+
+#lapide4{
+    position: absolute;
+    top: 400px;
+    left: 950px;
+    width: 100px;
+    height: 100px;
+}
+
+#lapide5{
+    position: absolute;
+    top: 400px;
+    left: 1100px;
+    width: 100px;
+    height: 100px;
+}
+
+#lapide6{
+    position: absolute;
+    top: 350px;
+    left: 850px;
+    width: 80px;
+    height: 80px;
+}
+
+#lapide7{
+    position: absolute;
+    top: 350px;
+    left: 1050px;
+    width: 80px;
+    height: 80px;
+}
+
+#lapide8{
+    position: absolute;
+    top: 350px;
+    left: 1150px;
+    width: 80px;
+    height: 80px;
+}
+
+#fantasma1{
+    position: absolute;
+    top: 350px;
+    left: 880px;
+    width: 80px;
+    height: 80px;
+}
+
+#fantasma2{
+    position: absolute;
+    top: 200px;
+    left: 1100px;
+    width: 30px;
+    height: 40px;
+}
+
+#fantasma3{
+    position: absolute;
+    top: 250px;
+    left: 980px;
+    width: 30px;
+    height: 40px;
+}
